@@ -1,0 +1,34 @@
+Top-Down World Ends: Suburbs
+
+1. INTRO
+2. CONTENT
+3. HOW TO USE
+4. SUPPORT
+
+
+
+1. INTRO
+Thank you for purchasing the Top-Down World Ends: Suburbs!
+You are free to use the models in your own project in any way you like. The best use is for top-down games, but it can be used for other
+style games too. All models are low-poly and mobile ready!
+
+
+2. CONTENT
+This package contains 121 models and prefabs. Plus ground textures.
+
+
+3. HOW TO USE:
+Simply place the assets from \Top Down World Ends - Suburbs\Prefabs into your scene of choice.
+ 
+- All textures and materials are linked.
+
+- To change suburbs sign picture, just replace or update picture (Suburbs_sign.png) in texture folder - \Top Down World Ends - Suburbs\Models\Textures
+
+- You can choose between broken and unbroken windows - just hide mesh on one or another
+
+ 
+4. SUPPORT
+For more information, questions and suggestions, please send your email to: riido.creations@gmail.com
+
+
+Riido Creations 2016
